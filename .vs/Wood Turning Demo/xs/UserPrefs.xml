@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{41C8B566-3CEC-571C-3E43-675964A5D5D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CompareWoods.cs">
+    <Files>
+      <File FileName="Assets/WoodSense.cs" Line="79" Column="51" />
+      <File FileName="Assets/Paintz Free/Scripts/ParticlePainter.cs" />
+      <File FileName="Assets/SprayControl.cs" />
+      <File FileName="Assets/Spray.cs" />
+      <File FileName="Assets/MoveKnife.cs" />
+      <File FileName="Assets/PaintWood.cs" />
+      <File FileName="Assets/CreatePlanes.cs" />
+      <File FileName="Assets/ParticlePlane.cs" />
+      <File FileName="Assets/AccessCollideEvent.cs" />
+      <File FileName="Assets/InkPainter/Sample/Script/MousePainter.cs" />
+      <File FileName="Assets/CompareWoods.cs" Line="48" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fbd71f37-6dd3-4770-af92-28838c02ca30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
